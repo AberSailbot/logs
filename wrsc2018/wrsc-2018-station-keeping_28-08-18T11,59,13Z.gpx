@@ -1,0 +1,14 @@
+<?xml version="1.0"?> 
+<gpx creator="boatd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<name>Boatd Output Track</name>
+	<trk>
+		<trkseg> 
+			<trkpt lat="0" lon="0"><time>2018-08-28T11:59:13.256981</time><cmt>Rudder:0 Sail:0 Wind:0 Heading:0</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-28T11:59:14.258239</time><cmt>Rudder:0 Sail:0 Wind:0 Heading:0</cmt></trkpt>
+			<trkpt lat="50.819041074" lon="-1.30692476"><time>2018-08-28T11:59:15.259477</time><cmt>Rudder:0 Sail:0 Wind:171 Heading:208.0</cmt></trkpt>
+			<trkpt lat="50.819041074" lon="-1.30692476"><time>2018-08-28T11:59:16.259842</time><cmt>Rudder:0 Sail:0 Wind:171 Heading:207.0</cmt></trkpt>
+			<trkpt lat="50.819041074" lon="-1.30692476"><time>2018-08-28T11:59:17.261077</time><cmt>Rudder:0 Sail:0 Wind:171 Heading:208.0</cmt></trkpt>
+		</trkseg>
+	</trk>
+		<wpt lat="50.82046" lon="-1.3119833"></wpt>
+</gpx>

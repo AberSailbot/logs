@@ -1,0 +1,13 @@
+<?xml version="1.0"?> 
+<gpx creator="boatd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<name>Boatd Output Track</name>
+	<trk>
+		<trkseg> 
+			<trkpt lat="0" lon="0"><time>2018-08-28T16:05:12.071808</time><cmt>Rudder:0 Sail:0 Wind:0 Heading:0</cmt></trkpt>
+		</trkseg>
+	</trk>
+		<wpt lat="50.8205438291" lon="-1.31223447057"></wpt>
+		<wpt lat="50.820590967" lon="-1.31178555952"></wpt>
+		<wpt lat="50.8203854132" lon="-1.31173809473"></wpt>
+		<wpt lat="50.8203449783" lon="-1.31218264071"></wpt>
+</gpx>

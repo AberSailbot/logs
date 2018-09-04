@@ -1,0 +1,34 @@
+<?xml version="1.0"?> 
+<gpx creator="boatd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<name>Boatd Output Track</name>
+	<trk>
+		<trkseg> 
+			<trkpt lat="0" lon="0"><time>2018-08-28T15:58:57.395851</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819216899" lon="-1.307636032"><time>2018-08-28T15:58:58.397150</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819216899" lon="-1.307636032"><time>2018-08-28T15:58:59.398427</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819216899" lon="-1.307636032"><time>2018-08-28T15:59:00.399716</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.81921122" lon="-1.307636032"><time>2018-08-28T15:59:01.401049</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.81921122" lon="-1.307636032"><time>2018-08-28T15:59:02.402373</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.81921122" lon="-1.307636032"><time>2018-08-28T15:59:03.403706</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819204572" lon="-1.307607335"><time>2018-08-28T15:59:04.405024</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819204572" lon="-1.307607335"><time>2018-08-28T15:59:05.406312</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819204572" lon="-1.307607335"><time>2018-08-28T15:59:06.407603</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819192085" lon="-1.307592825"><time>2018-08-28T15:59:07.408935</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819192085" lon="-1.307592825"><time>2018-08-28T15:59:08.410248</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819192085" lon="-1.307592825"><time>2018-08-28T15:59:09.411539</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819191926" lon="-1.307607011"><time>2018-08-28T15:59:10.412864</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819191926" lon="-1.307607011"><time>2018-08-28T15:59:11.414189</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819191926" lon="-1.307607011"><time>2018-08-28T15:59:12.415481</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819191926" lon="-1.307607011"><time>2018-08-28T15:59:13.416801</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819191926" lon="-1.307607011"><time>2018-08-28T15:59:14.418132</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819191926" lon="-1.307607011"><time>2018-08-28T15:59:15.419420</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.81917311" lon="-1.307535431"><time>2018-08-28T15:59:16.420715</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.81917311" lon="-1.307535431"><time>2018-08-28T15:59:17.422005</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.81917311" lon="-1.307535431"><time>2018-08-28T15:59:18.423306</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819173428" lon="-1.307507058"><time>2018-08-28T15:59:19.424635</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819173428" lon="-1.307507058"><time>2018-08-28T15:59:20.425924</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819173428" lon="-1.307507058"><time>2018-08-28T15:59:21.427452</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819166303" lon="-1.30752092"><time>2018-08-28T15:59:22.428794</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819166303" lon="-1.30752092"><time>2018-08-28T15:59:23.430094</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819166303" lon="-1.30752092"><time>2018-08-28T15:59:24.431405</time><cmt>Rudder:0 Sail:0 Wind:113 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819154294" lon="-1.30746385"><

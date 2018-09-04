@@ -1,0 +1,26 @@
+<?xml version="1.0"?> 
+<gpx creator="boatd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<name>Boatd Output Track</name>
+	<trk>
+		<trkseg> 
+			<trkpt lat="0" lon="0"><time>2018-08-28T14:32:34.546001</time><cmt>Rudder:0 Sail:0 Wind:0 Heading:0</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-28T14:32:35.547303</time><cmt>Rudder:0 Sail:0 Wind:0 Heading:0</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-28T14:32:36.548609</time><cmt>Rudder:0 Sail:0 Wind:251 Heading:None</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-28T14:32:37.549929</time><cmt>Rudder:0 Sail:0 Wind:251 Heading:None</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-28T14:32:38.551231</time><cmt>Rudder:0 Sail:0 Wind:251 Heading:281.0</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-28T14:32:39.552529</time><cmt>Rudder:0 Sail:0 Wind:251 Heading:281.0</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-28T14:32:40.555117</time><cmt>Rudder:0 Sail:0 Wind:251 Heading:281.0</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-28T14:32:41.556398</time><cmt>Rudder:0 Sail:0 Wind:251 Heading:281.0</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-28T14:32:42.557709</time><cmt>Rudder:0 Sail:0 Wind:251 Heading:281.0</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-28T14:32:43.558995</time><cmt>Rudder:0 Sail:0 Wind:251 Heading:281.0</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-28T14:32:44.560268</time><cmt>Rudder:0 Sail:0 Wind:251 Heading:281.0</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-28T14:32:45.561570</time><cmt>Rudder:0 Sail:0 Wind:251 Heading:281.0</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-28T14:32:46.562868</time><cmt>Rudder:0 Sail:0 Wind:251 Heading:281.0</cmt></trkpt>
+			<trkpt lat="50.819063333" lon="-1.30742"><time>2018-08-28T14:32:47.564158</time><cmt>Rudder:0 Sail:0 Wind:251 Heading:281.0</cmt></trkpt>
+		</trkseg>
+	</trk>
+		<wpt lat="50.8205438291" lon="-1.31223447057"></wpt>
+		<wpt lat="50.820590967" lon="-1.31178555952"></wpt>
+		<wpt lat="50.8203854132" lon="-1.31173809473"></wpt>
+		<wpt lat="50.8203449783" lon="-1.31218264071"></wpt>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2018-08-31T13:07:45.900Z</time>
+  <bounds minlat="0.000000000" minlon="-1.313900000" maxlat="50.822450000" maxlon="0.000000000"/>
+  <wpt lat="0.000000000" lon="0.000000000">
+    <name>point</name>
+    <cmt>point</cmt>
+    <desc>point</desc>
+  </wpt>
+  <wpt lat="50.822197912" lon="-1.313145381">
+    <name>A</name>
+    <cmt>A</cmt>
+    <desc>A</desc>
+  </wpt>
+  <wpt lat="50.822136584" lon="-1.312878510">
+    <name>B</name>
+    <cmt>B</cmt>
+    <desc>B</desc>
+  </wpt>
+  <wpt lat="50.820868757" lon="-1.313604633">
+    <name>C</name>
+    <cmt>C</cmt>
+    <desc>C</desc>
+  </wpt>
+  <wpt lat="50.820930083" lon="-1.313871498">
+    <name>D</name>
+    <cmt>D</cmt>
+    <desc>D</desc>
+  </wpt>
+  <wpt lat="50.821775303" lon="-1.313387424">
+    <name>E</name>
+    <cmt>E</cmt>
+    <desc>E</desc>
+  </wpt>
+  <wpt lat="50.821713976" lon="-1.313120556">
+    <name>F</name>
+    <cmt>F</cmt>
+    <desc>F</desc>
+  </wpt>
+  <wpt lat="50.821291366" lon="-1.313362597">
+    <name>G</name>
+    <cmt>G</cmt>
+    <desc>G</desc>
+  </wpt>
+  <wpt lat="50.821352693" lon="-1.313629463">
+    <name>H</name>
+    <cmt>H</cmt>
+    <desc>H</desc>
+  </wpt>
+  <wpt lat="50.822450000" lon="-1.312850000">
+    <name>marker154</name>
+    <cmt>marker154</cmt>
+    <desc>marker154</desc>
+  </wpt>
+  <wpt lat="50.820616667" lon="-1.313900000">
+    <name>marker155</name>
+    <cmt>marker155</cmt>
+    <desc>marker155</desc>
+  </wpt>
+</gpx>

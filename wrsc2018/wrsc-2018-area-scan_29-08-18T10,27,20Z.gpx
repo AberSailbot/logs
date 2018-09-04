@@ -1,0 +1,37 @@
+<?xml version="1.0"?> 
+<gpx creator="boatd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<name>Boatd Output Track</name>
+	<trk>
+		<trkseg> 
+			<trkpt lat="0" lon="0"><time>2018-08-29T10:27:20.829676</time><cmt>Rudder:0 Sail:0 Wind:0 Heading:0</cmt></trkpt>
+			<trkpt lat="0" lon="0"><time>2018-08-29T10:27:21.830939</time><cmt>Rudder:0 Sail:0 Wind:0 Heading:0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:22.832184</time><cmt>Rudder:0 Sail:0 Wind:147 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:23.833455</time><cmt>Rudder:0 Sail:0 Wind:166 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:24.834737</time><cmt>Rudder:0 Sail:0 Wind:166 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:25.835983</time><cmt>Rudder:0 Sail:0 Wind:150 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:26.837358</time><cmt>Rudder:0 Sail:0 Wind:146 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:27.838650</time><cmt>Rudder:0 Sail:0 Wind:146 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:28.839965</time><cmt>Rudder:0 Sail:0 Wind:141 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:29.841264</time><cmt>Rudder:0 Sail:0 Wind:149 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:30.842569</time><cmt>Rudder:0 Sail:0 Wind:149 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:31.843831</time><cmt>Rudder:0 Sail:0 Wind:144 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:32.845089</time><cmt>Rudder:0 Sail:0 Wind:151 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:33.846394</time><cmt>Rudder:0 Sail:0 Wind:151 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819033844" lon="-1.306994074"><time>2018-08-29T10:27:34.847681</time><cmt>Rudder:0 Sail:0 Wind:146 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:35.848940</time><cmt>Rudder:0 Sail:0 Wind:146 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:36.850229</time><cmt>Rudder:0 Sail:0 Wind:146 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819028165" lon="-1.306994074"><time>2018-08-29T10:27:37.851493</time><cmt>Rudder:0 Sail:0 Wind:146 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819035131" lon="-1.306994398"><time>2018-08-29T10:27:38.852743</time><cmt>Rudder:0 Sail:0 Wind:146 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819035131" lon="-1.306994398"><time>2018-08-29T10:27:39.853996</time><cmt>Rudder:0 Sail:0 Wind:146 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819035131" lon="-1.306994398"><time>2018-08-29T10:27:40.855261</time><cmt>Rudder:0 Sail:0 Wind:146 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819035131" lon="-1.306994398"><time>2018-08-29T10:27:41.856528</time><cmt>Rudder:0 Sail:0 Wind:146 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819035131" lon="-1.306994398"><time>2018-08-29T10:27:42.857823</time><cmt>Rudder:0 Sail:0 Wind:146 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819035131" lon="-1.306994398"><time>2018-08-29T10:27:43.859107</time><cmt>Rudder:0 Sail:0 Wind:146 Heading:299.0</cmt></trkpt>
+			<trkpt lat="50.819035131" lon="-1.306994398"><time>2018-08-29T10:27:44.860369</time><cmt>Rudder:0 Sail:0 Wind:146 Heading:299.0</cmt></trkpt>
+		</trkseg>
+	</trk>
+		<wpt lat="50.8205438291" lon="-1.31223447057"></wpt>
+		<wpt lat="50.820590967" lon="-1.31178555952"></wpt>
+		<wpt lat="50.8203854132" lon="-1.31173809473"></wpt>
+		<wpt lat="50.8203449783" lon="-1.31218264071"></wpt>
+</gpx>
