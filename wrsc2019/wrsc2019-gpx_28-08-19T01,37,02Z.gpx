@@ -1,0 +1,51 @@
+<?xml version="1.0"?> 
+<gpx creator="boatd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<name>Boatd Output Track</name>
+	<trk>
+		<trkseg> 
+			<trkpt lat="29.866518628" lon="121.538233623"><time>2019-08-28T01:37:03.820681</time><cmt>Rudder:-1 Sail:-1 Wind:109 Heading:208.0 Roll:56.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866509672" lon="121.538317029"><time>2019-08-28T01:37:04.821984</time><cmt>Rudder:-1 Sail:-1 Wind:92 Heading:208.0 Roll:59.0 Pitch:298.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.86657932" lon="121.538083052"><time>2019-08-28T01:37:05.823386</time><cmt>Rudder:-1 Sail:-1 Wind:97 Heading:208.0 Roll:58.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866508455" lon="121.538242445"><time>2019-08-28T01:37:06.824692</time><cmt>Rudder:-1 Sail:-1 Wind:99 Heading:208.0 Roll:57.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866448026" lon="121.538332666"><time>2019-08-28T01:37:07.826195</time><cmt>Rudder:-1 Sail:-1 Wind:91 Heading:208.0 Roll:57.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866466022" lon="121.538323845"><time>2019-08-28T01:37:08.827587</time><cmt>Rudder:-1 Sail:-1 Wind:86 Heading:208.0 Roll:59.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866365247" lon="121.538546993"><time>2019-08-28T01:37:09.828398</time><cmt>Rudder:-1 Sail:-1 Wind:82 Heading:208.0 Roll:57.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866435503" lon="121.538350309"><time>2019-08-28T01:37:10.829687</time><cmt>Rudder:-1 Sail:-1 Wind:79 Heading:208.0 Roll:59.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866459415" lon="121.538398429"><time>2019-08-28T01:37:11.830990</time><cmt>Rudder:-1 Sail:-1 Wind:77 Heading:208.0 Roll:59.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866384376" lon="121.538454766"><time>2019-08-28T01:37:12.832286</time><cmt>Rudder:-1 Sail:-1 Wind:75 Heading:208.0 Roll:57.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866423934" lon="121.538502886"><time>2019-08-28T01:37:13.833627</time><cmt>Rudder:-1 Sail:-1 Wind:73 Heading:208.0 Roll:59.0 Pitch:298.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866477937" lon="121.538268909"><time>2019-08-28T01:37:14.834935</time><cmt>Rudder:-1 Sail:-1 Wind:72 Heading:208.0 Roll:59.0 Pitch:301.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866384114" lon="121.538515115"><time>2019-08-28T01:37:15.836214</time><cmt>Rudder:-1 Sail:-1 Wind:71 Heading:208.0 Roll:58.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866458199" lon="121.538323845"><time>2019-08-28T01:37:16.837493</time><cmt>Rudder:-1 Sail:-1 Wind:74 Heading:208.0 Roll:58.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866404722" lon="121.538437123"><time>2019-08-28T01:37:17.838426</time><cmt>Rudder:-1 Sail:-1 Wind:76 Heading:208.0 Roll:57.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866498545" lon="121.538190917"><time>2019-08-28T01:37:18.839768</time><cmt>Rudder:-1 Sail:-1 Wind:75 Heading:208.0 Roll:59.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866488372" lon="121.538199738"><time>2019-08-28T01:37:19.841054</time><cmt>Rudder:-1 Sail:-1 Wind:77 Heading:208.0 Roll:58.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866565153" lon="121.538097288"><time>2019-08-28T01:37:20.842364</time><cmt>Rudder:-1 Sail:-1 Wind:76 Heading:208.0 Roll:59.0 Pitch:297.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866553846" lon="121.538189516"><time>2019-08-28T01:37:21.843643</time><cmt>Rudder:-1 Sail:-1 Wind:78 Heading:208.0 Roll:58.0 Pitch:297.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866416982" lon="121.538479829"><time>2019-08-28T01:37:22.844968</time><cmt>Rudder:-1 Sail:-1 Wind:80 Heading:208.0 Roll:61.0 Pitch:301.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866480287" lon="121.538260088"><time>2019-08-28T01:37:23.846300</time><cmt>Rudder:-1 Sail:-1 Wind:78 Heading:208.0 Roll:58.0 Pitch:298.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866498282" lon="121.538251266"><time>2019-08-28T01:37:24.847579</time><cmt>Rudder:-1 Sail:-1 Wind:77 Heading:208.0 Roll:58.0 Pitch:298.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866489851" lon="121.538213974"><time>2019-08-28T01:37:25.848422</time><cmt>Rudder:-1 Sail:-1 Wind:76 Heading:209.0 Roll:58.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866490805" lon="121.538348908"><time>2019-08-28T01:37:26.849867</time><cmt>Rudder:-1 Sail:-1 Wind:75 Heading:208.0 Roll:58.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866604365" lon="121.538047766"><time>2019-08-28T01:37:27.851198</time><cmt>Rudder:-1 Sail:-1 Wind:74 Heading:208.0 Roll:57.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866603494" lon="121.538070823"><time>2019-08-28T01:37:28.852563</time><cmt>Rudder:-1 Sail:-1 Wind:73 Heading:208.0 Roll:58.0 Pitch:302.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866488455" lon="121.538357729"><time>2019-08-28T01:37:29.853835</time><cmt>Rudder:-1 Sail:-1 Wind:73 Heading:208.0 Roll:59.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866479153" lon="121.538343494"><time>2019-08-28T01:37:30.855121</time><cmt>Rudder:-1 Sail:-1 Wind:72 Heading:208.0 Roll:58.0 Pitch:301.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866437591" lon="121.538401837"><time>2019-08-28T01:37:31.856434</time><cmt>Rudder:-1 Sail:-1 Wind:72 Heading:208.0 Roll:61.0 Pitch:301.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.86642446" lon="121.538382187"><time>2019-08-28T01:37:32.857749</time><cmt>Rudder:-1 Sail:-1 Wind:71 Heading:208.0 Roll:59.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866446285" lon="121.53837878"><time>2019-08-28T01:37:33.858426</time><cmt>Rudder:-1 Sail:-1 Wind:70 Heading:208.0 Roll:59.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866539845" lon="121.538192923"><time>2019-08-28T01:37:34.859720</time><cmt>Rudder:-1 Sail:-1 Wind:70 Heading:208.0 Roll:57.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866549409" lon="121.538146809"><time>2019-08-28T01:37:35.860993</time><cmt>Rudder:-1 Sail:-1 Wind:69 Heading:208.0 Roll:59.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866550018" lon="121.538184102"><time>2019-08-28T01:37:36.862270</time><cmt>Rudder:-1 Sail:-1 Wind:71 Heading:208.0 Roll:57.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866531759" lon="121.538253273"><time>2019-08-28T01:37:37.863599</time><cmt>Rudder:-1 Sail:-1 Wind:70 Heading:208.0 Roll:59.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866510543" lon="121.538293973"><time>2019-08-28T01:37:38.864901</time><cmt>Rudder:-1 Sail:-1 Wind:70 Heading:208.0 Roll:58.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866456457" lon="121.538369958"><time>2019-08-28T01:37:39.865410</time><cmt>Rudder:-1 Sail:-1 Wind:70 Heading:208.0 Roll:59.0 Pitch:302.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866489589" lon="121.538274323"><time>2019-08-28T01:37:40.866774</time><cmt>Rudder:-1 Sail:-1 Wind:69 Heading:208.0 Roll:59.0 Pitch:301.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866647669" lon="121.537943309"><time>2019-08-28T01:37:41.868147</time><cmt>Rudder:-1 Sail:-1 Wind:69 Heading:208.0 Roll:59.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.86653028" lon="121.538239037"><time>2019-08-28T01:37:42.869613</time><cmt>Rudder:-1 Sail:-1 Wind:68 Heading:209.0 Roll:57.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866475324" lon="121.53833808"><time>2019-08-28T01:37:43.870893</time><cmt>Rudder:-1 Sail:-1 Wind:68 Heading:208.0 Roll:57.0 Pitch:300.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866517412" lon="121.538159038"><time>2019-08-28T01:37:44.872248</time><cmt>Rudder:-1 Sail:-1 Wind:68 Heading:208.0 Roll:58.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866540107" lon="121.538132574"><time>2019-08-28T01:37:45.873609</time><cmt>Rudder:-1 Sail:-1 Wind:67 Heading:208.0 Roll:59.0 Pitch:302.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.86652272" lon="121.538178688"><time>2019-08-28T01:37:46.874971</time><cmt>Rudder:-1 Sail:-1 Wind:69 Heading:208.0 Roll:58.0 Pitch:299.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866602015" lon="121.538056588"><time>2019-08-28T01:37:47.876371</time><cmt>Rudder:-1 Sail:-1 Wind:68 Heading:208.0 Roll:58.0 Pitch:302.0 Depth:0</cmt></trkpt>
+			<trkpt lat="29.866486368" lon="121.538306202"><time>201
